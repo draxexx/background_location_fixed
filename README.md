@@ -14,5 +14,5 @@ A patched version of the original [`background_location`](https://github.com/alm
 dependencies:
   background_location:
     git:
-      url: https://github.com/burakyilmaz/background_location_fixed.git
+      url: https://github.com/draxexx/background_location_fixed.git
       ref: master
